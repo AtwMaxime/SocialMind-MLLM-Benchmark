@@ -240,8 +240,7 @@ swift sft \
   --dataset gazefollow-vlm pisc-vlm meld-omni/all proxemics-omni/all emotic-vlm/all \
   --custom_plugin plugins/omni_dataset_plugin.py \
   ...
-
----
+```
 
 ---
 
